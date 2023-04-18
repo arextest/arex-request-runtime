@@ -1,0 +1,12 @@
+{
+  "name": "arex-request-runtime",
+  "version": "1.0.2",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "echo \"hi\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
